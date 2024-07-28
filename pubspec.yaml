@@ -28,6 +28,7 @@ dependencies:
   flutter_bluetooth_serial_ble:
   intl: ^0.19.0
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
